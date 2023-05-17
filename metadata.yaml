@@ -1,0 +1,51 @@
+_repo: Comedias-tomo-3-de-3-b-Las-Fiestas-de-Ceres-las-Ranas-las-Junteras-Pluto_70542
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Baráibar y Zumárraga, Federico
+    aliases:
+    - Baraibar y Zumarraga, Federico
+    - Zumárraga, Federico Baráibar y
+    - Baráibar, Federico
+    birthdate: 1851
+    deathdate: 1918
+    gutenberg_agent_id: '54764'
+    url: http://www.gutenberg.org/2009/agents/54764
+    wikipedia: https://es.wikipedia.org/wiki/Federico_Bar%C3%A1ibar
+creator:
+  author:
+    agent_name: Aristophanes
+    aliases:
+    - Αριστοφάνης
+    - Ἀριστοφάνης
+    - Aristófanes
+    - Aristofanes
+    birthdate: -450
+    deathdate: -388
+    gutenberg_agent_id: '965'
+    url: http://www.gutenberg.org/2009/agents/965
+    wikipedia: https://en.wikipedia.org/wiki/Aristophanes
+description: ''
+gutenberg_issued: '2023-04-13'
+identifiers:
+  gutenberg: '70542'
+language: es
+pgterms:marc904: https://archive.org/details/AU1014
+pgterms:marc905: 20220329033344author
+pgterms:marc906: '1881'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by The Internet Archive/Universidad de Sevilla.)
+publication_note: '  $aSpain :$bLuis Navarro, editor, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Athens (Greece) -- Drama'
+- !lcsh 'Aristophanes -- Translations into Spanish'
+- !lcsh 'Greek drama (Comedy) -- Translations into Spanish'
+- !lcc 'PA'
+- GITenberg
+title: 'Comedias, tomo 3 de 3 : $b Las Fiestas de Ceres, las Ranas, las Junteras,
+  Pluto'
+url: http://www.gutenberg.org/ebooks/70542
