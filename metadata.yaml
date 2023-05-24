@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '54764'
     url: http://www.gutenberg.org/2009/agents/54764
     wikipedia: https://es.wikipedia.org/wiki/Federico_Bar%C3%A1ibar
+covers:
+- cover_type: archival
+  image_path: 70542-h/images/cover.jpg
 creator:
   author:
     agent_name: Aristophanes
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/965
     wikipedia: https://en.wikipedia.org/wiki/Aristophanes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70542#Comedias-tomo-3-de-3-b-Las-Fiestas-de-Ceres-las-Ranas-las-Junteras-Pluto
 gutenberg_issued: '2023-04-13'
 identifiers:
   gutenberg: '70542'
